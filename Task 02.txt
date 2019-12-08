@@ -1,0 +1,3 @@
+FOSS,30 Days of code,cybersec,ai
+From all these i except that they will start with the basics and provide relevant resources.
+30 days of code is expexted to provide the cc notes first.
